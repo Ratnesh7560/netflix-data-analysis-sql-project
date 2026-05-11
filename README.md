@@ -1,4 +1,4 @@
-Netflix SQL Data Analysis
+**Netflix SQL Data Analysis**
 Project Overview
 
 This project contains SQL queries used to explore and analyze the Netflix Titles dataset.
